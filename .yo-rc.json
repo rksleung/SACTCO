@@ -1,0 +1,16 @@
+{
+  "generator-easy-ui5": {
+    "projectname": "sacTCO",
+    "namespace": "com.dataworksbi",
+    "platform": "Static webserver",
+    "viewtype": "XML",
+    "viewname": "MainView",
+    "ui5libs": "Content delivery network (OpenUI5)",
+    "newdir": true,
+    "namespaceURI": "com/dataworksbi",
+    "uimodules": [
+      "uimodule"
+    ],
+    "setupCompleted": true
+  }
+}
