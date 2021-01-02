@@ -5,7 +5,7 @@
     "platform": "Static webserver",
     "viewtype": "XML",
     "viewname": "MainView",
-    "ui5libs": "Content delivery network (OpenUI5)",
+    "ui5libs": "Content delivery network (SAPUI5)",
     "newdir": true,
     "namespaceURI": "com/dataworksbi",
     "uimodules": [
